@@ -1,0 +1,16 @@
+{
+  "name": "T34",
+  "cost": 330,
+  "movement": 4,
+  "meleeStrength": 70,
+  "rangedStrength": 80,
+  "rangedAttack": true,
+  "range": 2,
+  "requiredTech": "Combustion",
+  "upgradesFrom": "Cavalry",
+  "uniqueness": "Unique unit for Russia, replaces Tank",
+  "xpModifier": 25,
+  "resourceRequired": "Oil",
+  "icon": "T34",
+  "civilopediaText": "Легендарный советский танк времён Второй мировой войны."
+}

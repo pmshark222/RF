@@ -1,0 +1,7 @@
+{
+  "name": "T-34 Mod",
+  "description": "Заменяет стандартный танк у России на Т-34",
+  "authors": ["ChatGPT"],
+  "version": "1",
+  "modFormatVersion": 5
+}

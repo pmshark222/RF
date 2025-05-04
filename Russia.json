@@ -1,0 +1,10 @@
+{
+  "replace": {
+    "UniqueUnits": [
+      {
+        "name": "T34",
+        "replaces": "Tank"
+      }
+    ]
+  }
+}
